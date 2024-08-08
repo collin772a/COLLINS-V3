@@ -1,15 +1,15 @@
- # QUEEN_ANITA-V2
+ # COLLINS-V3
    <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ QUEEN_+ANITA-+V2★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DAVID+CYRIL;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
-<img src="https://telegra.ph/file/a22200a780671e0e32383.jpg"/> 
+<img src="https://telegra.ph/file/a859713071d35ccfa1503.jpg/> 
 <p align="center"><img src="https://profile-counter.glitch.me/{DeeCeeXxx}/count.svg" alt="DeeCeeXxx :: Visitor's Count" /></p>
 <p align="center">
 <a href="https://github.com/DeeCeeXxx/followers"><img title="Followers" src="https://img.shields.io/github/followers/DeeCeeXxx?color=red&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Queen_Anita-V2?color=blue&style=flat-square"></a>
+<a href="https://github.com/collin772a/COLLINS-V3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DeeCeeXxx/Queen_Anita-V2?color=blue&style=flat-square"></a>
 <a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DeeCeeXxx/Queen_Anita-V2?color=red&style=flat-square"></a>
 <a href="https://github.com/DeeCeeXxx/Queen_Anita-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DeeCeeXxx/Queen_Anita-V2?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/DeeCeeXxx/Queen_Anita-V2/"><img title="Size" src="https://img.shields.io/github/repo-size/DeeCeeXxx/Queen_Anita-V2?style=flat-square&color=green"></a>
@@ -21,11 +21,11 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
 
- ## QUEEN_ANITA-V2 Deployment Methods
+ ## COLLiNS-V3 Deployment Methods
 
 ### 1. FORK THIS REPO
 
-<a href='https://github.com/DeeCeeXxx/Queen_Anita-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/collin772a/COLLINS-V3/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. GET SESSION ID HERE
 
@@ -77,12 +77,12 @@
     <a href='https://railway.com/github/Deeceexxx/Queen_Anita-V2' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-Deploy-green?style=for-the-badge&logo=railway&logoColor=white'/></a>
 
     <h2 align="center"> ⚠️ NOTE  </h2>
-## QUEEN_ANITA-V2 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
+## COLLINS-V3 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS BE WARNED!!! 
 
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2349066528353"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/254752588323"><img src="https://img.shields.io/badge/Contact David-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://t.me/deecee_x"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" /><br>
 <p align="center">
@@ -102,7 +102,7 @@
   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
   
 
-- *Queen_Anita-V2 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *COLlINS-V3 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Queen_Anita-V2 at your own risk by keeping this warning in mind.*
   
